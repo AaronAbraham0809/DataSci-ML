@@ -34,7 +34,6 @@ Shiny applications developed to provide interactive data analysis tools.​
 
 data-products
 Comprehensive data products combining multiple visualization tools and interactive elements to convey data-driven stories.​
-Coursera
 
 capstone
 Final capstone project integrating concepts from all courses to solve a real-world data science problem.​
