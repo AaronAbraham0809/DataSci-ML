@@ -1,0 +1,15 @@
+[submodule "DDP-ShinyApp"]
+	path = DDP-ShinyApp
+	url = https://github.com/AaronAbraham0809/DDP-ShinyApp.git
+[submodule "DDP-plotly"]
+	path = DDP-plotly
+	url = https://github.com/AaronAbraham0809/DDP-plotly.git
+[submodule "data-products"]
+	path = data-products
+	url = https://github.com/AaronAbraham0809/data-products.git
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/AaronAbraham0809/capstone.git
+[submodule "Stat-ML-"]
+	path = Stat-ML-
+	url = https://github.com/AaronAbraham0809/stat-ml-.git
